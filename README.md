@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a Full-stack Software Engineer
-- 🌱 I’m currently focused on mastering Typescript and C++
+- 🌱 I’m currently focused on mastering Typescript and Ruby
 - 💞️ I’m looking to collaborate on building applications with complex architectures preferrably utilizing Realtime, Queues and AWS Web Services also Hard Code Challenges :)
 - 📫 You can reach me on LinkedIn: chineduabalogu or email: chineduabalogu@gmail.com
 
